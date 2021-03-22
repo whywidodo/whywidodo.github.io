@@ -70,4 +70,4 @@ Links to associated github repos (and live demos if available) are located in bl
 
 ---
 
-_[Edit on GitHub](https://github.com/hamelsmu/hamel)_
+_[Edit on GitHub](https://github.com/whywidodo/whywidodo.github.io)_

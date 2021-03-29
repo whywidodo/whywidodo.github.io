@@ -1,14 +1,15 @@
 ## Selamat Datang di Halaman Pribadi
 
+Halo, Perkenalkan nama saya Wahyu Widodo.
 Saya tertarik pada bidang pemrograman Web, khususnya bidang Backend Web Development.
 
 ### Project
 
-- Monitoring data Covid-19 Indonesia. [Lihat](https://covid19.karyane.com), [Source](https://github.com/whywidodo/covid19)
+- Monitoring data Covid-19 Indonesia. [(Lihat)](https://covid19.karyane.com), [(Source Code)](https://github.com/whywidodo/covid19)
 
-- Sistem Informasi Akademik CI4 (on progress...). [Source](https://github.com/whywidodo/ci4-siakad)
+- Sistem Informasi Akademik CI4. [(Source Code)](https://github.com/whywidodo/ci4-siakad)
 
-- Buku Saku untuk Android. [Source](https://github.com/whywidodo/buku-saku)
+- Buku Saku untuk Android. [(Source Code)](https://github.com/whywidodo/buku-saku)
 
 ### Pendidikan
 
@@ -22,15 +23,15 @@ Saya tertarik pada bidang pemrograman Web, khususnya bidang Backend Web Developm
 
 - Surabaya, 2013: "Juara 2 (Bina) Lomba Persatuan Baris Berbaris (PBB) Hardikal 2013"
 
-### Pengalaman Kerja
+### Pengalaman
 
-- Freelance, Mitraaditama.com 2020: "Membuat company profile menggunakan CMS Wordpress untuk Lembaga Kursus dan Pelatihan (LKP) Mitra Aditama Purbalingga". [Website](https://mitraaditama.com).
+- Freelance, Mitraaditama.com 2020: "Membuat company profile menggunakan CMS Wordpress untuk Lembaga Kursus dan Pelatihan (LKP) Mitra Aditama Purbalingga". [(Lihat Website)](https://mitraaditama.com).
 
-- Production Operator, PT. Aisin Indonesia Automotive 2017 - 2019: "Melakukan produksi produk Oil Pan menggunakan mesin CNC, serta memastikan bahwa produk tersebut sesuai standar produksi".
+- Production Operator, PT. Aisin Indonesia Automotive 2017 - 2019.
 
-- Production Operator, PT. Yamaha Indonesia Motor MFG 2016 - 2017: "Melakukan proses masking bagian velg yang akan melalui proses pengecatan, dan melakukan proses pendataan produksi velg setiap hari".
+- Production Operator, PT. Yamaha Indonesia Motor MFG 2016 - 2017.
 
-- Production Administrator, PT. Honda Prospect Motor 2015 -2016: "Melakukan pengecekan standar bentuk mobil, serta melakukan perbandingan ukuran yang didapatkan.".
+- Production Administrator, PT. Honda Prospect Motor 2015 -2016.
 
 ---
 

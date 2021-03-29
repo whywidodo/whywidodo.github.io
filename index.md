@@ -1,6 +1,6 @@
 ## Selamat Datang di Halaman Pribadi
 
-Halo, Perkenalkan nama saya Wahyu Widodo.
+Halo, Perkenalkan nama saya Wahyu Widodo.\
 Saya tertarik pada bidang pemrograman Web, khususnya bidang Backend Web Development.
 
 ### Project

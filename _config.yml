@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Wahyu Widodo
 description: Web Developer | Personal Trader
-show_downloads: false
+show_downloads: true
 # google_analytics: 
 logo: ./why.jpg
 

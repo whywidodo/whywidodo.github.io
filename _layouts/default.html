@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+  {% seo %}
+  <link rel="stylesheet" href="{{"/assets/style.css?v=" | append: site.github.build_revision | relative_url }}">
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <p style="text-align: center;"><img style="border-radius: 50%;" width="200px" height="200px"
+          src="https://github.com/whywidodo.png" alt="Logo" /></p>
+
+      <p style="text-align: center;">{{ site.description | default: site.github.project_tagline }}</p>
+
+      <br>
+      <p style="text-align: center;">
+        <a href="https://twitter.com/mr_wahyuwidodo" target="_blank"><img src="/icons8-twitter-48.png" alt="Twitter"></a>
+        <a href="https://www.linkedin.com/in/wahyuwidodo" target="_blank"><img src="/icons8-linkedin-48.png" alt="LinkedIn"></a>
+        <a href="https://www.github.com/whywidodo" target="_blank"><img src="/icons8-github-48.png" alt="Github"></a>
+      </p>
+
+
+    </header>
+    <section>
+
+      {{ content }}
+
+    </section>
+  </div>
+  <script src="{{"/assets/scale.fix.js" | relative_url }}"></script>
+  {% if site.google_analytics %}
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', '{{ site.google_analytics }}', 'auto');
+    ga('send', 'pageview');
+  </script>
+  {% endif %}
+</body>
+
+</html>

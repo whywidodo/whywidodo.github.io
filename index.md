@@ -29,7 +29,7 @@ Serta memiliki kemampuan yang baik dalam berkomunikasi dan bekerja secara tim, s
 
 ### Portofolio
 
-- [**API Ruang Edukasi**](https://github.com/ruang-edukasi/api-ruangedukasi) - Binar Academy
+- [API Ruang Edukasi](https://github.com/ruang-edukasi/api-ruangedukasi) - Binar Academy
   - Membuat Restful API untuk proyek pembelajaran online dengan brand Ruang Edukasi, dengan teknologi yang digunakan seperti: Node.JS, Express.JS, JWT Authentication, NodeMailer, PostgreSQL, serta layanan deployment Railway.
   
 - [Web Al Qur'an Digital Indonesia](https://github.com/whywidodo/quran-native) - Individu
@@ -42,7 +42,7 @@ Serta memiliki kemampuan yang baik dalam berkomunikasi dan bekerja secara tim, s
   - Membuat aplikasi android menggunakan bahasa pemrograman Java untuk menampilkan beragam informasi yang berkaitan dengan agama islam, seperti do'a harian dan ayat-ayat Al Qur'an
 
 
-#### [**Lihat Portofolio Lainnya**](https://github.com/whywidodo)
+#### [Lihat Portofolio Lainnya](https://github.com/whywidodo)
 
 ---
 

@@ -1,9 +1,9 @@
 ## Wahyu Widodo
 
 Halo, perkenalkan nama saya Wahyu Widodo\
-Dalam dunia pemrograman saya memiliki ketertarikan terhadap **Backend Development** dan **Mobile Development**. 
+Saat ini saya sedang bekerja sebagai Backend Developer di salah satu perusahaan di kota Semarang. Di pekerjaan saat ini, saya menggunakan bahasa pemrograman Golang (Go), NestJS dan .Net untuk membuat service API yang dibutuhkan perusahaan. Selain itu saya juga memiliki pengalaman belajar backend development menggunakan ExpressJS dan NodeJS. 
 
-Serta memiliki kemampuan yang baik dalam berkomunikasi dan bekerja secara tim, serta siap untuk berkontribusi dalam hal-hal baru yang menantang.
+Saya memiliki kemampuan yang baik dalam berkomunikasi dan bekerja secara tim, serta siap untuk berkontribusi dalam hal-hal baru yang menantang. Memiliki semangat untuk terus belajar dan meningkatkan kemampuan di bidang pengembangan perangkat lunak dan teknologi informasi secara dinamis. 
 
 ---
 
@@ -11,19 +11,11 @@ Serta memiliki kemampuan yang baik dalam berkomunikasi dan bekerja secara tim, s
 
 #### Backend Development
 
-- **Bahasa Pemrograman**: Javascript, PHP
-- **Framework**: Express.JS, CodeIgniter
+- **Bahasa Pemrograman**: Javascript, Golang, .Net, Typescript
+- **Framework**: Express.JS, Echo, NestJS
 - **Database**: PostgreSQL, MySQL
 - **Control System**: Git
-- **Tech**: Node.JS, Express.JS, JWT
-  
-#### Mobile Development
-
-- **Bahasa Pemrograman**: Kotlin, Dart
-- **Framework**: Native, Flutter
-- **Database**: SQLite, Room, Firebase
-- **Control System**: Git
-- **Tech**: Retrofit, Coroutines
+- **Tech**: Node.JS, JWT, OAuth
     
 ---
 
@@ -59,33 +51,3 @@ Serta memiliki kemampuan yang baik dalam berkomunikasi dan bekerja secara tim, s
 - **Binar Academy**, *Backend Javascript Student (Agustus 2023 - Desember 2023)*
 
 - **Bangkit Academy**, *Mobile Development Student (Februari 2023 - Juli 2023)*
-
----
-
-### Pengalaman Organisasi
-
-- **Anggota Forum Asisten** - *Universitas Amikom Purwokerto (2022 - 2024)*
-  - Membantu dosen dalam proses pelaksanaan praktikum
-  - Membantu mahasiswa yang mengalami kendala dalam mengikuti pelaksanaan praktikum
-
-
-### Pengalaman Kerja
-
-- **LPK Mitraaditama**, *Freelancer 2020*
-  - Membuat Website Lembaga Kursus dan Pelatihan (LKP) Mitra Aditama Purbalingga dengan CMS Wordpress. [(Lihat Website)](https://mitraaditama.com)
-
-- **PT. Aisin Indonesia Automotive**, *Operator Produksi 2017 - 2019*
-
-- **PT. Yamaha Indonesia Motor MFG**, *Operator Produksi 2016 - 2017*
-
----
-
-### Pencapaian Lainnya
-
-- **Provocatio Technologiae Creativae (PTC)**, 2023: "Juara 2 Mobile Application"
-
-- **Intermedia Information Technologi Competition (IITC)**, 2022: "Finalis Mobile Application"
-
-- **Program Kreativitas Mahasiswa (PKM)**, 2021: "Lolos Pendanaan pada Bidang PKM-KC"
-  
-- **Lembaga Sertifikasi Kompetensi TIK**, 2020: "Kompeten di bidang Desain Grafis Level 3 KKNI"

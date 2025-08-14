@@ -12,7 +12,7 @@ Saya memiliki kemampuan yang baik dalam berkomunikasi dan bekerja secara tim, se
 #### Backend Development
 
 - **Bahasa Pemrograman**: Javascript, Golang, .Net, Typescript
-- **Framework**: Express.JS, Echo, NestJS
+- **Framework**: Express.JS, Echo, ASP.NET, NestJS
 - **Database**: PostgreSQL, MySQL
 - **Control System**: Git
 - **Tech**: Node.JS, JWT, OAuth
@@ -46,7 +46,7 @@ Saya memiliki kemampuan yang baik dalam berkomunikasi dan bekerja secara tim, se
   
 ---
 
-### Pendidikan Non Formal
+### Bootcamp
 
 - **Binar Academy**, *Backend Javascript Student (Agustus 2023 - Desember 2023)*
 

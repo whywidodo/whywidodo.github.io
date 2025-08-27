@@ -13,7 +13,7 @@ Saya memiliki kemampuan yang baik dalam berkomunikasi dan bekerja secara tim, se
 
 - **Bahasa Pemrograman**: Javascript, Golang, .Net, Typescript
 - **Framework**: Express.JS, Echo, ASP.NET, NestJS
-- **Database**: PostgreSQL, MySQL
+- **Database**: PostgreSQL, MySQL, MongoDB
 - **Control System**: Git
 - **Tech**: Node.JS, JWT, OAuth
     

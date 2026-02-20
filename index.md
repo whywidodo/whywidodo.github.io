@@ -20,7 +20,12 @@ Saya memiliki kemampuan yang baik dalam berkomunikasi dan bekerja secara tim, se
 ---
 
 ### Portofolio
+- [API Steach - Pendidikan Guru](https://github.com/buatkan-com/s-teach-api) - Individu
+  - Membuat Restful API untuk proyek Tenaga Kependidikan Guru, dengan teknologi yang digunakan seperti: Golang, Framework Echo, PostgreSQL, dan Firebase Cloud Messaging
 
+- [API Belanja Sayur](https://github.com/buatkan-com/belanjasayur-api) - Individu
+  - Membuat Restful API untuk proyek pribadi Belanja Sayur, dengan teknologi yang digunakan meliputi: Golang, Framework Echo, dan PostgreSQL dan JWT Authentication
+  
 - [API Ruang Edukasi](https://github.com/ruang-edukasi/api-ruangedukasi) - Binar Academy
   - Membuat Restful API untuk proyek pembelajaran online dengan brand Ruang Edukasi, dengan teknologi yang digunakan seperti: Node.JS, Express.JS, JWT Authentication, NodeMailer, PostgreSQL, serta layanan deployment Railway.
   

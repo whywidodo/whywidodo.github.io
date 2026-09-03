@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+
+<head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width,initial-scale=1">
+   <title>Principles I use when designing REST APIs. — Wahyu Widodo</title>
+   <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+   <header class="nav wrap"><a class="brand" href="../index.html"><img src="https://github.com/whywidodo.png"
+            alt=""><span>whywidodo<span class="accent">.</span></span></a><a class="contact-pill"
+         href="../index.html#notes">← Notes</a></header>
+   <main>
+      <article class="note wrap">
+         <div class="eyebrow">BACKEND / REST API</div>
+         <h1>Principles I use when designing REST APIs.</h1>
+         <p class="note-lead">A practical note from my ongoing journey of building and understanding backend systems.
+         </p>
+         <h2>Start with the contract</h2>
+         <p>Resources, request shapes, response shapes, status codes, and error formats should be understandable before
+            implementation details take over.</p>
+         <h2>Validate at the boundary</h2>
+         <p>Reject invalid input close to the API boundary so application rules remain focused on valid data.</p>
+         <h2>Treat errors as part of the API</h2>
+         <p>Consistent error responses make clients easier to build and services easier to debug.</p>
+         <h2>Authentication is not authorization</h2>
+         <p>Identity and permission are separate concerns. Keeping that distinction clear improves system design.</p>
+         <h2>Keep business rules out of handlers</h2>
+         <p>HTTP handlers should coordinate transport concerns while application and domain rules remain independently
+            testable.</p>
+      </article>
+   </main>
+   <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

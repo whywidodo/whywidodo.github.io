@@ -1,33 +1,39 @@
-# Wahyu Widodo — Portfolio Website
+# Wahyu Widodo — React + Vite Portfolio
 
-A premium personal engineering website designed to support a Software Engineer profile without feeling like a conventional CV.
+Revamped from the original static HTML/CSS/JavaScript portfolio while preserving its visual direction, content, dark/light theme, responsive behavior, project case studies, and technical notes.
 
-## Concept
-The site presents engineering work, capabilities, experiments, technical notes, mindset, and career background as one coherent personal brand.
-
-## Features
-- Soft Light / Dark mode
-- Persistent theme preference
-- Premium editorial + technical visual language
-- Responsive layout
-- Developer system profile hero
-- Selected project case studies
-- Engineering capabilities
-- Engineering Lab
-- Technical Notes
-- Professional background
-- Engineering mindset
-- Contact CTA
-- SEO / Open Graph metadata
-- No framework/build process required
+## Stack
+- React 19
+- Vite 7
+- React Router
+- Lucide-ready frontend setup
+- Node.js 22
+- GitHub Pages via GitHub Actions
 
 ## Run
-python3 -m http.server 8080
+```bash
+npm ci
+npm run dev
+```
 
-Then open http://localhost:8080
+## Build
+```bash
+npm run build
+npm run preview
+```
 
-## Hosting
-Static hosting: VPS/Nginx, cPanel, GitHub Pages, Vercel, Netlify, Cloudflare Pages.
+## Favicon
+The portfolio includes an elegant **W** monogram favicon at `public/favicon.svg`, referenced from `index.html`.
 
-## Before publishing
-Replace `hello@wahyuwidodo.com` with your preferred public email address if necessary.
+## Routes
+- `/`
+- `/projects/photobooth`
+- `/projects/s-teach`
+- `/projects/belanja-sayur`
+- `/projects/ruang-edukasi`
+- `/notes/backend-principles`
+- `/notes/postgresql`
+- `/notes/clean-architecture`
+
+## GitHub Pages
+The repository is ready for a normal GitHub repository deployment using Actions. For a custom domain, configure it under **Settings → Pages → Custom domain**.
